@@ -1,0 +1,151 @@
+* {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: linear-gradient(#B8E7FA, #B8E7FA);
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+header {
+    height: 100px;
+    margin-top: 0px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #FFFFFF;
+    align-items: center;
+}
+
+.h1-carrier {
+    color: #0D1321;
+    font-size: 30px;
+    padding-left: 40px;
+}
+
+.h1-span {
+    color: #FFA500;
+}
+
+.download-btn {
+    padding: 10px 25px;
+    height: 50px;
+    width: 20x;
+    border-radius: 10px;
+    color: #0D1321;
+    border: none;
+    background: linear-gradient(#FFA500, #FFD447);
+    cursor: pointer;
+    font: bold;
+}
+
+.download-btn:hover {
+    background: linear-gradient(#7d8d12, #FFD447);
+}
+
+.hope-container {
+    background: #E6EDF9;
+    max-width: 1080px;
+    max-height: fit-content;
+    padding: 17px 24px;
+    margin: 40px auto;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+}
+
+.hope-image {
+    margin-top: 5px;
+}
+
+.hope-text {
+    margin-bottom: 30px;
+    margin-top: 10px;
+    font-size: larger;
+    font: bold;
+}
+
+.hope-p {
+    margin-bottom: 20px;
+    font-size: small;
+}
+
+.hope-btn {
+    padding: 17px 24px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    color: #0D1321;
+    border: none;
+    background: linear-gradient(#FFA500, #FFD447);
+    cursor: pointer;
+    font-style: none;
+    font: bold;
+
+}
+
+.hope-btn:hover {
+    background: linear-gradient(#7d8d12, #FFD447);
+}
+
+.why-dev {
+    text-align: center;
+}
+
+.why-h1 {
+    margin-bottom: 24px;
+    margin-top: 100px;
+    font-size: larger;
+    font: bold;
+}
+
+.why-p1 {
+    font-size: small;
+    margin-bottom: 48px;
+}
+
+.d-container {
+    background: #E6EDF9;
+    max-width: 1080px;
+    max-height: fit-content;
+    margin: 40px auto;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.d-img {
+    margin: 20px auto;
+}
+
+.d-container h1 {
+    margin-left: 48px;
+    font-size: 24;
+    margin-bottom: 16px;
+}
+
+.d-container p {
+    margin-left: 48px;
+    margin-bottom: 32px;
+    font-size: small;
+}
+
+.d-container button {
+    margin-left: 48px;
+    padding: 17px 25px;
+    height: 50px;
+    width: 20x;
+    border-radius: 10px;
+    color: #0D1321;
+    border: none;
+    background: linear-gradient(#FFA500, #FFD447);
+    cursor: pointer;
+    font: bold;
+}
+
+.d-container button:hover {
+    background: linear-gradient(#7d8d12, #FFD447);
+}
